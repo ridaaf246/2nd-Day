@@ -1,2 +1,2 @@
 # 2nd-Day
-Learn about end, sep, printing complex numbers and about data type in python
+Learned print function parameters (sep, end), variables, and data types in Python
